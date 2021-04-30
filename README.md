@@ -26,6 +26,7 @@ targets:
 ### Homebrew
 
 ```shell
+brew tap gustavoSAS/homebrew-brew
 brew install workspacegen
 ```
 
